@@ -156,3 +156,4 @@ Below is a table of unofficial, community-developed wrappers for and implementat
 | [lua-discordRPC](https://github.com/pfirsich/lua-discordRPC)              | LuaJIT (FFI)                      |
 | [pypresence](https://github.com/qwertyquerty/pypresence)                  | [Python](https://python.org/)     |
 | [SwordRPC](https://github.com/Azoy/SwordRPC)                              | [Swift](https://swift.org)        |
+| [RPCord](https://github.com/DjDeveloperr/RPCord)                          | TypeScript                        |
